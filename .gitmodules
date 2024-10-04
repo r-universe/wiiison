@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "onmaRg"]
 	path = onmaRg
-	url = https://github.com/cran/onmaRg
+	url = https://github.com/wiiison/onmarg
